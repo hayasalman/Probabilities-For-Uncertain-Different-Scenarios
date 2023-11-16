@@ -85,4 +85,4 @@ In this repository we will find out the probability distributions for certain ev
 -  [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb)
 
 -  [Confidence Intervals File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb)
-- 
+  
