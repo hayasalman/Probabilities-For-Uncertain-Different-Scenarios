@@ -1,6 +1,6 @@
 ## Probability Distributions
 
-![sampling_](https://github.com/hayasalman/Probability-Distributions/assets/71796909/60981a59-da50-47cb-8eef-06e13feefe0f)
+![1_h_e22t3-zg8Ik90U0jCHGA](https://github.com/hayasalman/Probability-Distributions/assets/71796909/43629b35-22da-4d11-82b8-98b9f32ffac4)
 
 ## Overview
 
