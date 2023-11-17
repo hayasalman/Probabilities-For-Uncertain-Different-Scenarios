@@ -50,23 +50,31 @@ In this repository we will find out the probability distributions for certain ev
 
 ## Business Insights
 
-- In [The Bernoulli Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb) , there is a 67% chance that one customer will turn into a buyer and that is what most likely will happen.
+- In [The Bernoulli Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb) , there is a 67% chance that one 
+  customer will turn into a buyer and that is what most likely will happen.
 
-- In [The Binomial Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb) , there's a zero possibility that the customers who will become buyers will be less than 48 and more than 85 customers.
+- In [The Binomial Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb) , there's a zero possibility that the 
+  customers who will become buyers will be less than 48 and more than 85 customers.
   In fact , what more likely will happen is the business will end up having approximately  66 buyers.
 
-- In [The Normal Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb) , on the average the UK males wear 8.4 size and frankly most of them wear this sneaker size.
+- In [The Normal Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb) , on the average the UK males wear 8.4 size and frankly most 
+  of them wear this sneaker size.
 
-- In [The Standardize Normal Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb) , before we find out about both customers' z-score statistics, it was hard  to compare between them in term of who spending the most since they use different currencies depend on the country they based at ,
+- In [The Standardize Normal Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb) , before we find out about both customers' z- 
+  score statistics, it was hard  to compare between them in term of who spending the most since they use different currencies depend on the country they based at ,
   but now with the z-scores results, we can say that : in terms of the spendings the Australian customer has a higher z-score so he/she is the 1st customer of Adidas.
 
-- In [The Discrete Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 90% chance that the drinks sales is more than 12 per a day.
+- In [The Discrete Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 90% chance that the drinks sales is more 
+  than 12 per a day.
 
-- In [The Continuous Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 40% chance that the companies shipping days will take less than 3 days.
+- In [The Continuous Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 40% chance that the companies shipping 
+  days will take less than 3 days.
 
-- In [The Point Estimation](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , the estimation of the average amount of damages of structural defect in the buildings is : 192,000 SAR.
+- In [The Point Estimation](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , the estimation of the average 
+  amount of damages of structural defect in the buildings is : 192,000 SAR.
 
-- In [The Confidence Intervals](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , 95% of the time , the mean of amount for cups of water dispensed by the new kettle will be between 1.3 L and 1.7 L.
+- In [The Confidence Intervals](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , 95% of the time , the mean of 
+  amount for cups of water dispensed by the new kettle will be between 1.3 L and 1.7 L.
 
 ## Refernces
 
