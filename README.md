@@ -67,8 +67,7 @@ In this repository we will find out the probability distributions for certain ev
 - In [The Discrete Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 90% chance that the drinks sales is more 
   than 12 per a day.
 
-- In [The Continuous Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 40% chance that the companies shipping 
-  days will take less than 3 days.
+- In [The Continuous Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , 50% of time the company's shipping days are **3.5 days**.
 
 - In [The Point Estimation](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , the estimation of the average 
   amount of damages of structural defect in the buildings is : 192,000 SAR.
@@ -88,7 +87,7 @@ In this repository we will find out the probability distributions for certain ev
 
 - [Discrete Uniform Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
 
-- [Continuous uniform distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
+- [Continuous Uniform Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
 
 -  [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb)
 
