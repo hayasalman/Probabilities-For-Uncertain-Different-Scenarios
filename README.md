@@ -69,10 +69,10 @@ In this repository we will find out the probability distributions for certain ev
 
 - In [The Continuous Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , 50% of time the company's shipping days are **3.5 days**.
 
-- In [The Point Estimation](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , the estimation of the average 
+- In [The Point Estimation](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb) , the estimation of the average 
   amount of damages of structural defect in the buildings is : 192,000 SAR.
 
-- In [The Confidence Intervals](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb) , 95% of the time , the mean of 
+- In [The Confidence Intervals](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb) , 95% of the time , the mean  
   amount for cups of water dispensed by the new kettle will be between 1.3 L and 1.7 L.
 
 ## Refernces
@@ -89,7 +89,7 @@ In this repository we will find out the probability distributions for certain ev
 
 - [Continuous Uniform Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
 
--  [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb)
+-  [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
 
--  [Confidence Intervals File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Interval.ipynb)
+-  [Confidence Intervals File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
   
