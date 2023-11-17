@@ -17,7 +17,7 @@ In this repository we will find out the probability distributions for certain ev
  *All the datasets stored as CSV file and can be accessed through this links :*
 
 - [Addids Sneakers Size Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/adidas_data.csv)
-- [Customers Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution%20.ipynb)
+- [Customers Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/clients_data.csv)
 - [Logisitcs Companies Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/shipping_companies.csv)
 
 ## Coding
@@ -50,9 +50,9 @@ In this repository we will find out the probability distributions for certain ev
 
 ## Business Insights
 
-- In [The Bernoulli Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution%20.ipynb) , there is a 67% chance that one customer will turn into a buyer and that is what most likely will happen.
+- In [The Bernoulli Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb) , there is a 67% chance that one customer will turn into a buyer and that is what most likely will happen.
 
-- In [The Binomial Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution%20.ipynb) , there's a zero possibility that the customers who will become buyers will be less than 48 and more than 85 customers.
+- In [The Binomial Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb) , there's a zero possibility that the customers who will become buyers will be less than 48 and more than 85 customers.
   In fact , what more likely will happen is the business will end up having approximately  66 buyers.
 
 - In [The Normal Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb) , on the average the UK males wear 8.4 size and frankly most of them wear this sneaker size.
@@ -70,9 +70,9 @@ In this repository we will find out the probability distributions for certain ev
 
 ## Refernces
 
-- [Bernoulli Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution%20.ipynb)
+- [Bernoulli Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb)
   
-- [Binomial Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution%20.ipynb)
+- [Binomial Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb)
 
 - [Normal Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb)
 
