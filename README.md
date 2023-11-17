@@ -4,7 +4,7 @@
 
 ## Overview
 
-Rolling a Dice gives me a set of outcomes distributed in a particular way , where as the marks of a particular subject of a class gives me another distribution and occurrence of car accidents 
+Rolling a dice gives me a set of outcomes distributed in a particular way , where as the marks of a particular subject of a class gives me another distribution and occurrence of car accidents 
 in a particular year follows an entirely different distribution and so on. 
 Different Distributions help us to know more about the data and its characteristics. It helps to understand what could be the possible outcome if it follows a particular distribution.
 
@@ -16,7 +16,7 @@ In this repository we will find out the probability distributions for certain ev
 
  *All the datasets stored as CSV file and can be accessed through this links :*
 
-- [Addids Sneakers Size Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/adidas_data.csv)
+- [UK Sneakers Size Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/uk_men_data.csv)
 - [Customers Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/clients_data.csv)
 - [Logisitcs Companies Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/shipping_companies.csv)
 
@@ -62,7 +62,7 @@ In this repository we will find out the probability distributions for certain ev
 
 - In [The Standardize Normal Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb) , before we find out about both customers' z- 
   score statistics, it was hard  to compare between them in term of who spending the most since they use different currencies depend on the country they based at ,
-  but now with the z-scores results, we can say that : in terms of the spendings the Australian customer has a higher z-score so he/she is the 1st customer of Adidas.
+  but now with the z-scores results, we can say that : in terms of the spendings the australian customer has a higher z-score so he/she is the 1st customer.
 
 - In [The Discrete Uniform Distribution](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb) , there's 90% chance that the drinks sales is more 
   than 12 per a day.
