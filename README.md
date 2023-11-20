@@ -26,7 +26,7 @@ In this repository we will find out the probability distributions for certain ev
 
    **Packeges used** 
   * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+  * **matplotlib - seaborn** : used for data visualization.
   * **scipy** : used for probability distributions.
 
 ## Approaches & Methodologies
