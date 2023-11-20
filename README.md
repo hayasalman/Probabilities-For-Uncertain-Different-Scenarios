@@ -29,7 +29,7 @@ In this repository we will find out the probability distributions for certain ev
   * **matplotlib - seaborn** : used for data visualtion.
   * **scipy** : used for probability distributions.
 
-## Approches & Methodologies
+## Approaches & Methodologies
 
 - Define the event of the interest that we want to find its probability of occurrence.
   
@@ -89,7 +89,7 @@ In this repository we will find out the probability distributions for certain ev
 
 - [Continuous Uniform Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
 
--  [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
+- [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
 
--  [Confidence Intervals File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
+- [Confidence Intervals File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
   
