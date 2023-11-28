@@ -20,6 +20,42 @@ In this repository we will find out the probability distributions for certain ev
 - [Customers Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/clients_data.csv)
 - [Logisitcs Companies Info](https://github.com/hayasalman/Probability-Distributions/blob/main/Datasets/shipping_companies.csv)
 
+## Installation
+
+We need to set up our local environment to programming using python , here :
+
+- Install and navigate through the Anaconda [Anaconda Installer](https://www.anaconda.com/download/) .
+
+- Setup and manage the environments.
+
+  ```conda create -n env_name```
+
+   To access this environment through the command line : ```conda activate env_name```
+
+   To check for the Python packages : ```conda list```
+
+- Download Python packages in Anaconda Terminal (we can use pip or conda interchangeably).
+
+  ```pip install pandas```
+
+   ```pip install numpy```
+
+   ```pip install matplotlib```
+
+   ```pip install seaborn```
+
+   ```pip install scipy```
+
+  **OR**
+
+  Install multiple packages at the same time. For example, the command below will install all three packages simultaneously.
+
+  ```conda install pandas numpy matplotlib seaborn scipy```
+
+- Install Jupyter Notebooks.
+
+  ```conda install jupyter notebook```
+
 ## Coding
 
   -  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
@@ -77,19 +113,19 @@ In this repository we will find out the probability distributions for certain ev
 
 ## Refernces
 
-- [Bernoulli Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb)
+- [Bernoulli Distribution IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb)
   
-- [Binomial Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb)
+- [Binomial Distribution IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Bernoulli%20Vs.%20Binomial%20Distribution.ipynb)
 
-- [Normal Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb)
+- [Normal Distribution IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb)
 
-- [Standardize Normal Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb)
+- [Standardize Normal Distribution IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Normal%20Distribution.ipynb)
 
-- [Discrete Uniform Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
+- [Discrete Uniform Distribution IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
 
-- [Continuous Uniform Distribution File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
+- [Continuous Uniform Distribution IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Uniform%20Distribution.ipynb)
 
-- [Point Estimation File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
+- [Point Estimation IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
 
-- [Confidence Intervals File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
+- [Confidence Intervals IPYNB File](https://github.com/hayasalman/Probability-Distributions/blob/main/Notebooks/Point%20Estimation%20%26%20Confidence%20Intervals.ipynb)
   
